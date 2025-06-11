@@ -8,6 +8,7 @@ QuranAyat is a project that provides access to Quranic verses through a simple A
 ## API Link
 You can access the Quranic verses using the following API link:  
 [Quran API](https://cdn.jsdelivr.net/gh/Mahmoud0066/QuranAyat/public/quran.json)
+[Quran API 2 ](https://cdn.jsdelivr.net/gh/Mahmoud0066/QuranAyat/public/ara-quranqumbul.min.json)
 
 ## Project Link
 For more information about the project, visit the GitHub repository:  
